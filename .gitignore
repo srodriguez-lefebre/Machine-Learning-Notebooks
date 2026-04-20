@@ -3,3 +3,7 @@ data/
 results/
 models/
 *.npy
+.codex
+AGENTS.md
+.claude
+CLAUDE.md
